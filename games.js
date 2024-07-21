@@ -1,3 +1,7 @@
+// seaworthy
+// oozedivetrappine
+// 6games-container.stats-card15
+
 // Image credits: Kickstarter
 const games = ` [
   {
