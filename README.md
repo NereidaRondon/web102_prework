@@ -17,16 +17,18 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Incorporated semantic HTML 
+* [x] Sticky Nav bar at the top of the page
+* [x] Updated the CSS to make it more visually appealing and more responsive
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/assets/N_Rondon Prework.gif' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +36,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The most challenging part of the project was reading the instructions and trying to figure out what they were asking for, specifically Challenge #6 and using a ternary for displaying the total of unfunded games. It was simple to implement after I realized what the instructions were saying.
 
 ## License
 
