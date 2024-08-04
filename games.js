@@ -1,6 +1,12 @@
-// seaworthy
-// oozedivetrappine
-// 6games-container.stats-card15
+// 1 seaworthy
+// 2 oozedivetrappine
+// 3 6games-container.stats-card15
+//   https://defiant-apparel.surge.sh/
+// 4 11seafoamGAMES_JSON
+// 5 19187800268BRAIN
+// 6 74FLANNELclick
+// 7 toLocaleString<div>1ivy
+// 8 ZooHowCEDAR
 
 // Image credits: Kickstarter
 const games = ` [
